@@ -1,0 +1,9 @@
+title: Testing Jekyll Pizza
+email: your-email@domain.com
+description: Just going through the process to test out jekyll.pizza
+baseurl: "/jekyll-pizza-test"
+url: jglovier.github.io
+twitter_username: jekyllrb
+github_username: jglovier
+markdown: kramdown
+theme: clean-jekyll
